@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+matplotlib
+scikit-learn
+statsmodels
+pmdarima
+prophet
+xgboost
+torch
+timesfm
+jupyter
+notebook
